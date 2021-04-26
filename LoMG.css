@@ -1,7 +1,7 @@
-/*Ids are all below this text. Then Classes will also be below  */
+/* Ids are all below this text. Then Classes will also be below  */
 
-#Navagatorbar {
-  background-color: #FFFFFF;
+#navagatorbar {
+  background-color: #fff;
   padding: 20px;
   height: 25px;
   border-bottom-style: solid;
@@ -13,8 +13,8 @@
   font-family: 'Lato', sans-serif;
 }
 
-#Navtext {
-  color: #757D75;
+#navtext {
+  color: #757d75;
   text-shadow: 9px 5px 5px black;
   padding: 20px;
   height: 25px;
@@ -25,7 +25,7 @@
   font-family: 'Lato', sans-serif;
 }
 
-#Mslogo {
+#mslogo {
   width: 130px;
   height: 115px;
   position: fixed;
@@ -33,25 +33,24 @@
   left: 20px;
 }
 
-/*To center images do this 
+/* To center images do this 
 (id or class here){
   display: block;
   margin-left: auto;
   margin-right: auto;
-} 
-*/
+} */
 
-#BillGateModif {
+#billGateModif {
   display: block;
   margin-left: auto;
   margin-right: auto;
   position: relative;
   z-index: -1;
   top: 150px;
-  
 }
-#Titletext {
-  color: #000000;
+
+#titletext {
+  color: #000;
   text-align: center;
   position: relative;
   top: 150px;
@@ -61,12 +60,10 @@
   font-family: 'Lato', sans-serif;
 }
 
-
-
 /* Classes Below */
 
-.StandBoxesTop{
-background-color: #FFFFFF;
+.standBoxesTop {
+background-color: #fff;
   padding: 65px;
   height: 25px;
   font-size: 250%;
@@ -80,11 +77,11 @@ background-color: #FFFFFF;
   font-family: 'Lato', sans-serif;
 }
 
-.StandBoxesCenter{
-background-color: #FFFFFF;
+.standBoxesCenter {
+background-color: #fff;
   padding: 65px;
-  height: 100% ;
-  font-size:150%;
+  height: 100%;
+  font-size: 150%;
   position: relative;
   z-index:-1;
   right: 10px;
@@ -94,11 +91,11 @@ background-color: #FFFFFF;
   font-family: 'Lato', sans-serif;
 }
 
-.StandBoxesBottom {
-  background-color: #FFFFFF;
+.standBoxesBottom {
+  background-color: #fff;
   padding: 30px;
   height: 100%;
-  font-size: 100% ;
+  font-size: 100%;
   border-bottom-style: solid;
   border-color: gold;
   position: relative;
@@ -110,10 +107,8 @@ background-color: #FFFFFF;
   font-family: 'Lato', sans-serif; 
 }
 
-
-/*Body, Table, and Ids without the "Id" thingies below */
+/* Body, Table, and Ids without the "Id" thingies below */
 
 body {
   background-image: url("https://pureskillszambia.com/wp-content/uploads/2018/08/pattern.jpg");
-  
 }
