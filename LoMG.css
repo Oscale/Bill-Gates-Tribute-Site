@@ -33,14 +33,14 @@
   left: 20px;
 }
 
-/* To center images do this 
+/* To center images do this
 (id or class here){
   display: block;
   margin-left: auto;
   margin-right: auto;
 } */
 
-#billGateModif {
+#billgatemodif {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -62,8 +62,8 @@
 
 /* Classes Below */
 
-.standBoxesTop {
-background-color: #fff;
+.standboxestop {
+  background-color: #fff;
   padding: 65px;
   height: 25px;
   font-size: 250%;
@@ -77,13 +77,13 @@ background-color: #fff;
   font-family: 'Lato', sans-serif;
 }
 
-.standBoxesCenter {
-background-color: #fff;
+.standboxescenter {
+  background-color: #fff;
   padding: 65px;
   height: 100%;
   font-size: 150%;
   position: relative;
-  z-index:-1;
+  z-index: -1;
   right: 10px;
   margin: auto;
   bottom: 40px;
@@ -91,7 +91,7 @@ background-color: #fff;
   font-family: 'Lato', sans-serif;
 }
 
-.standBoxesBottom {
+.standboxesbottom {
   background-color: #fff;
   padding: 30px;
   height: 100%;
@@ -104,7 +104,8 @@ background-color: #fff;
   margin: auto;
   bottom: 40px;
   width: 110%;
-  font-family: 'Lato', sans-serif; 
+  font-family: 'Lato', sans-serif;
+
 }
 
 /* Body, Table, and Ids without the "Id" thingies below */
