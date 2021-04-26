@@ -1,0 +1,119 @@
+/*Ids are all below this text. Then Classes will also be below  */
+
+#Navagatorbar {
+  background-color: #FFFFFF;
+  padding: 20px;
+  height: 25px;
+  border-bottom-style: solid;
+  border-color: gold;
+  position: fixed;
+  top: -19px;
+  left: 0;
+  width: 100%;
+  font-family: 'Lato', sans-serif;
+}
+
+#Navtext {
+  color: #757D75;
+  text-shadow: 9px 5px 5px black;
+  padding: 20px;
+  height: 25px;
+  position: fixed;
+  top: -18px;
+  left: 150px;
+  width: 100%;
+  font-family: 'Lato', sans-serif;
+}
+
+#Mslogo {
+  width: 130px;
+  height: 115px;
+  position: fixed;
+  top: -28px;
+  left: 20px;
+}
+
+/*To center images do this 
+(id or class here){
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} 
+*/
+
+#BillGateModif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  z-index: -1;
+  top: 150px;
+  
+}
+#Titletext {
+  color: #000000;
+  text-align: center;
+  position: relative;
+  top: 150px;
+  font-size: 350%;
+  width: 100%;
+  z-index: -1;
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+/* Classes Below */
+
+.StandBoxesTop {
+background-color: #FFFFFF;
+  padding: 55px;
+  height: 25px;
+  font-size: 250%;
+  border-top-style: solid;
+  border-color: gold;
+  position: relative;
+  z-index: -1;
+  right: 10px; 
+  width: 100%;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+.StandBoxesCenter {
+background-color: #FFFFFF;
+  padding: 55px;
+  height: 100%;
+  font-size: 150%;
+  position: relative;
+  z-index: -1;
+  right: 10px;
+  margin: auto;
+  bottom: 40px;
+  width: 100%;
+  font-family: 'Lato', sans-serif;
+}
+
+.StandBoxesBottom {
+  background-color: #FFFFFF;
+  padding: 30px;
+  height: 100% ;
+  font-size: 100%;
+  border-bottom-style: solid;
+  border-color: gold;
+  position: relative;
+  z-index: -1;
+  right: 10px;
+  margin: auto;
+  bottom: 40px;
+  width: 110%;
+  font-family: 'Lato', sans-serif; 
+}
+
+
+/*Body, Table, and Ids without the "Id" thingies below */
+
+body {
+  background-image: url("https://pureskillszambia.com/wp-content/uploads/2018/08/pattern.jpg");
+  
+}
