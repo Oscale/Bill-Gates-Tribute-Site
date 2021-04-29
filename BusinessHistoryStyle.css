@@ -66,47 +66,52 @@
 
 .standboxestop {
   background-color: #fff;
-  padding: 65px;
+  padding: 80px;
   height: 25px;
   font-size: 250%;
   border-top-style: solid;
   border-color: gold;
   position: relative;
   z-index: -1;
-  right: 10px;
-  width: 100%;
+  right: 5px;
+  top: 40px;
   text-align: center;
   font-family: 'Lato', sans-serif;
 }
 
 .standboxescenter {
   background-color: #fff;
-  padding: 65px;
+  padding: 80px;
   height: 100%;
   font-size: 150%;
   position: relative;
+  text-align: left;
   z-index: -1;
-  right: 10px;
-  margin: auto;
-  bottom: 40px;
-  width: 100%;
+  right: 5px;
   font-family: 'Lato', sans-serif;
 }
 
 .standboxesbottom {
   background-color: #fff;
-  padding: 30px;
+  padding: 80px;
   height: 100%;
   font-size: 100%;
   border-bottom-style: solid;
   border-color: gold;
   position: relative;
   z-index: -1;
-  right: 10px;
-  margin: auto;
-  width: 100%;
   bottom: 40px;
   font-family: 'Lato', sans-serif;
+}
+
+.contentbox{
+  margin-bottom: 1px;
+  margin-top: 1px;
+  margin-left: -50px;
+  margin-right: 60px;
+  border-spacing: 20px;
+  padding: 50px;
+  width: 100%;
 }
 
 /* Body, Table, and Ids without the "Id" thingies below */
